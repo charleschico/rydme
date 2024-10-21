@@ -1,7 +1,11 @@
-<h3 align="left" style="color: #0366d6;">Olá, eu sou o Charles Santos! 👋</h3>
+<img src="https://img.shields.io/static/v1?label=Overview&message=CHARLESSANTOS&color=0366d6&style=for-the-badge&logo=GitHub" alt="Overview Charles Santos">
 
 ### Sobre mim
-<img src="https://img.shields.io/static/v1?label=Overview&message=CHARLESSANTOS&color=0366d6&style=for-the-badge&logo=GitHub" alt="Overview Charles Santos">
+<div style="background-color: #ffffff; padding: 10px; border-radius: 10px;">
+  <div style="display: flex; justify-content: space-between;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=charleschico&theme=blue&hide_border=false&include_all_commits=true"
+      alt="G
 
 <p>👨‍💻 Sou desenvolvedor focado em automações, especialmente usando <strong>Python</strong>. Tenho paixão por criar scripts que otimizam processos e tornam a vida mais fácil!</p>
 
