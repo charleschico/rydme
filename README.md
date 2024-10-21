@@ -22,24 +22,35 @@
 
 ### ⚙️ GitHub Analytics
 
-<div style="background-color: #ffffff; padding: 10px; border-radius: 10px; border: 1px solid #d1d5da;">
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=charleschico&theme=blue&hide_border=false&include_all_commits=true"
-    alt="Github Stats"
-    style="display: inline-block; margin-right: 10px;"
-  />
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleschico&theme=blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-    style="display: inline-block; margin-right: 10px;"
-  />
-  <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=charleschico&theme=blue&hide_border=false"
-    alt="Github Streak"
-    style="display: inline-block; margin-right: 10px;"
-  />
+<div style="background-color: #ffffff; padding: 10px; border-radius: 10px;">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <img
+          align="left"
+          src="https://github-readme-stats.vercel.app/api?username=charleschico&theme=blue&hide_border=false&include_all_commits=true"
+          alt="Github Stats"
+        />
+      </td>
+      <td style="border: none;">
+        <img
+          align="left"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleschico&theme=blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+          alt="Top Languages"
+        />
+      </td>
+      <td style="border: none;">
+        <br />
+        <img
+          align="left"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=charleschico&theme=blue&hide_border=false"
+          alt="Github Streak"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
+<h4 align="right"> 
+  :)
+</h4>
