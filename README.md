@@ -27,17 +27,19 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=charleschico&theme=blue&hide_border=false&include_all_commits=true"
     alt="Github Stats"
+    style="display: inline-block; margin-right: 10px;"
   />
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleschico&theme=blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Top Languages"
+    style="display: inline-block; margin-right: 10px;"
   />
-  <br style="clear: both;" />
   <img
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=charleschico&theme=blue&hide_border=false"
     alt="Github Streak"
+    style="display: inline-block; margin-right: 10px;"
   />
 </div>
 
