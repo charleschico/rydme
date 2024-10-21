@@ -51,6 +51,4 @@
   </table>
 </div>
 
-<h4 align="right"> 
-  :)
-</h4>
+
