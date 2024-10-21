@@ -18,18 +18,5 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-### ⚙️ GitHub Analytics
 
-<div style="background-color: #ffffff; padding: 10px; border-radius: 10px;">
-  <div style="display: flex; justify-content: space-between;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=charleschico&theme=blue&hide_border=false&include_all_commits=true"
-      alt="Github Stats"
-    />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=charleschico&theme=blue&hide_border=false"
-      alt="Github Streak"
-    />
-  </div>
-</div>
 
