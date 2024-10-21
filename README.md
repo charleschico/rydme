@@ -23,7 +23,7 @@
 ### ⚙️ GitHub Analytics
 
 <div style="background-color: #ffffff; padding: 10px; border-radius: 10px;">
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=charleschico&theme=blue&hide_border=false&include_all_commits=true"
       alt="Github Stats"
@@ -34,4 +34,5 @@
     />
   </div>
 </div>
+
 
