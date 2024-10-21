@@ -1,6 +1,6 @@
 # Charles Santos
 
-### Desenvolvedor de Automação
+### Desenvolvedor de Automação - Bug Hunter
 
 [![Linkedin Badge](https://img.shields.io/badge/-Charles%20Santos-0366D6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-santos-214458215/)](https://www.linkedin.com/in/charles-santos-214458215/) 
 [![Gmail Badge](https://img.shields.io/badge/-chafnds@gmail.com-0366D6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chafnds@gmail.com)](mailto:chafnds@gmail.com)
