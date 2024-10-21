@@ -1,4 +1,4 @@
-<h2 align="center" style="color: #0366d6;">Olá, eu sou o Charles Santos! 👋</h2>
+<h3 align="left" style="color: #0366d6;">Olá, eu sou o Charles Santos! 👋</h3>
 
 ### Sobre mim
 <img src="https://img.shields.io/static/v1?label=Overview&message=CHARLESSANTOS&color=0366d6&style=for-the-badge&logo=GitHub" alt="Overview Charles Santos">
