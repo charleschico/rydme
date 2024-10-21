@@ -1,7 +1,5 @@
 <h2 align="center" style="color: #0366d6;">Olá, eu sou o Charles Santos! 👋</h2>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=charleschico&show_icons=true&title_color=0366d6&text_color=333&icon_color=0366d6&bg_color=f6f8fa&cache_seconds=2300" alt="Charles Santos GitHub Stats">
-
 ### Sobre mim
 <img src="https://img.shields.io/static/v1?label=Overview&message=CHARLESSANTOS&color=0366d6&style=for-the-badge&logo=GitHub" alt="Overview Charles Santos">
 
@@ -11,15 +9,11 @@
 
 <p>🚀 Atualmente estou sempre buscando novos desafios para aprimorar minhas habilidades e contribuir com a comunidade de desenvolvedores.</p>
 
-<p align="left">
-  <a href="mailto:SEUEMAIL@gmail.com" title="Gmail">
+<p align="center">
+  <a href="mailto:chafnds@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/SEULINKEDIN" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/charles-santos-214458215/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=SEUNUMERODEWHATSAPP" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://www.facebook.com/SEULINKFACEBOOK" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/charleschicoo" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
@@ -56,13 +50,6 @@
     </tr>
   </table>
 </div>
-
----
-
-### 🐍 Veja a cobrinha comendo meus commits!
-![Snake animation](https://github.com/charleschico/charleschico/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <h4 align="right"> 
   :)
