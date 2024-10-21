@@ -1,29 +1,13 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=CHARLESSANTOS&color=0366d6&style=for-the-badge&logo=GitHub" alt="Overview Charles Santos">
+# Charles Santos
 
-### Sobre mim
+### Desenvolvedor de Automação
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>👨‍💻 Sou desenvolvedor focado em automações, especialmente usando <strong>Python</strong>. Tenho paixão por criar scripts que otimizam processos e tornam a vida mais fácil!</p>
-    <p>🔧 Além de automações, tenho experiência com <strong>desenvolvimento web</strong>, e adoro explorar novas tecnologias para melhorar minhas soluções.</p>
-    <p>🚀 Atualmente estou sempre buscando novos desafios para aprimorar minhas habilidades e contribuir com a comunidade de desenvolvedores.</p>
-  </div>
+[![Linkedin Badge](https://img.shields.io/badge/-Charles%20Santos-0366D6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-santos-214458215/)](https://www.linkedin.com/in/charles-santos-214458215/) 
+[![Gmail Badge](https://img.shields.io/badge/-chafnds@gmail.com-0366D6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chafnds@gmail.com)](mailto:chafnds@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/charleschicoo/)](https://www.instagram.com/charleschicoo/)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=charleschico&theme=blue&hide_border=false&include_all_commits=true"
-    alt="Github Stats"
-    style="flex: 0 0 auto; max-width: 400px; border-radius: 10px;"
-  />
-</div>
+Meu nome é Charles Santos, sou desenvolvedor apaixonado por automações, especialmente com Python. Tenho uma paixão por criar soluções que facilitam processos e melhoram a produtividade.
 
-<p align="center">
-  <a href="mailto:chafnds@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/charles-santos-214458215/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/charleschicoo" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+Minha jornada começou com pequenos scripts, onde descobri como a programação pode transformar tarefas cotidianas em processos automáticos. Adoro explorar novas tecnologias e me manter atualizado com as tendências do mercado.
+
+**Está buscando automações para otimizar seus processos? Vamos conversar e transformar suas ideias em realidade!**
