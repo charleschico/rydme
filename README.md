@@ -8,4 +8,4 @@
 
 Meu nome é Charles Santos, sou desenvolvedor apaixonado por automações, especialmente com Python. Tenho uma paixão por criar soluções que facilitam processos e melhoram a produtividade.
 
-Minha jornada começou com pequenos scripts, onde descobri como a programação pode transformar tarefas cotidianas em processos automáticos
+Minha jornada começou com pequenos scripts, onde descobri como a programação pode transformar tarefas cotidianas em processos automáticos.
